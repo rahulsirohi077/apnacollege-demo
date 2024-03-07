@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first git repo.
 <br>
-Author - Rahul Sirohi
+Author - Rahul Sirohi(nit)
